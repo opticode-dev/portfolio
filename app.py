@@ -33,13 +33,13 @@ st.write("物事を整理しながら、着実に進めるタイプです。")
 #制作物紹介とGithubリンクとStreamlitで作ったアプリのリンク
 st.header("Projects")
 
-st.subheader("作品１")
+st.subheader("Project１")
 st.write("履修優先度表示アプリ")
 st.write("大学の履修登録時に優先度を整理できるアプリです。")
 st.link_button("Githubを見る","https://github.com/opticode-dev/risyutekisei")
 st.link_button("アプリを見る","https://risyutekisei-iue8jkluryyopnwd4pnh2s.streamlit.app/")
 
-st.subheader("作品２")
+st.subheader("Project２")
 st.write("バスの時刻表検索アプリ")
 st.write("日にちと出発地点を選択すれば時刻表の一覧が表示されるアプリです。")
 st.link_button("Githubを見る","https://github.com/opticode-dev/bus-app")
@@ -48,17 +48,17 @@ st.link_button("アプリを見る","https://bus-app-xnyjutwhlx3sjxdwbrpe8u.stre
 #学習中
 st.header("Learning Now")
 
-st.subheader("開発・ITスキル")
+st.subheader("Development/IT Skills")
 st.write("上記アプリのUI/UX改善")
 st.write("HTML/CSSの学習")
 st.write("応用情報技術者試験の学習")
 
-st.subheader("語学")
+st.subheader("Languages")
 st.write("韓国語能力試験の学習")
 st.write("TOEIC600~")
 
-st.subheader("ビジネススキル")
+st.subheader("Business Skills")
 st.write("MOSのWord/Excelの学習")
 
-st.subheader("その他")
+st.subheader("Others")
 st.write("随時ポートフォリオ更新中・・・")
