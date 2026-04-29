@@ -63,3 +63,4 @@ st.write("MOSのWord/Excelの学習")
 
 st.subheader("Others")
 st.write("随時ポートフォリオ更新中・・・")
+st.link_button("Githubを見る","https://github.com/opticode-dev/portfolio")
