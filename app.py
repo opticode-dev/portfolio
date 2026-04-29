@@ -8,7 +8,7 @@ st.header("About Me")
 st.write("情報系学生/Webアプリいくつか自作")
 
 #取得済み□
-st.header("取得済み資格")
+st.header("Certifications")
 st.write("ITパスポート")
 st.write("基本情報技術者")
 st.write("英検２級")
@@ -31,7 +31,7 @@ st.write("物事を整理しながら、着実に進めるタイプです。")
 
 
 #制作物紹介とGithubリンクとStreamlitで作ったアプリのリンク
-st.header("制作物")
+st.header("Projects")
 
 st.subheader("作品１")
 st.write("履修優先度表示アプリ")
