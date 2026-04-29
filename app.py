@@ -42,8 +42,8 @@ st.link_button("アプリを見る","https://risyutekisei-iue8jkluryyopnwd4pnh2s
 st.subheader("作品２")
 st.write("バスの時刻表検索アプリ")
 st.write("日にちと出発地点を選択すれば時刻表の一覧が表示されるアプリです。")
-st.write("https://github.com/opticode-dev/bus-app")
-st.write("https://bus-app-xnyjutwhlx3sjxdwbrpe8u.streamlit.app/")
+st.link_button("Githubを見る","https://github.com/opticode-dev/bus-app")
+st.link_button("アプリを見る","https://bus-app-xnyjutwhlx3sjxdwbrpe8u.streamlit.app/")
 
 #学習中
 st.header("Learning Now")
