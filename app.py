@@ -16,8 +16,9 @@ st.write("英検２級")
 st.header("Interests")
 st.write("Webアプリ開発を中心に取り組みつつ、今後は幅広い分野に挑戦し、自分の得意領域を深めていきたいと考えています。")
 
-st.header("Now")
-st.write("友人に使ってもらい、改善点を基にアップデートしています。")
+st.header("Background")
+st.write("情報系学生として学習を進めながら、PythonとStreamlitを用いたWebアプリ開発に取り組んでいます。")
+st.write("制作したアプリは実際に友人へ使ってもらい、改善を重ねています。")
 
 st.header("Strengths")
 st.write("継続的に改善を重ねる")
