@@ -7,6 +7,12 @@ st.title("My portfolio")
 st.header("About Me")
 st.write("情報系学生/Webアプリいくつか自作")
 
+#取得済み□
+st.header("取得済み資格")
+st.write("ITパスポート")
+st.write("基本情報技術者")
+st.write("英検２級")
+
 st.header("Interests")
 st.write("Webアプリ開発を中心に取り組みつつ、今後は幅広い分野に挑戦し、自分の得意領域を深めていきたいと考えています。")
 
