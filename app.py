@@ -5,21 +5,11 @@ st.title("My portfolio")
 
 #プロフィール
 st.header("About Me")
-st.write("情報系学生/Webアプリいくつか自作")
+st.write("情報系学生。PythonとStreamlitを用いたWebアプリ開発に取り組んでいます。")
+st.write("実際に使ってもらった意見をもとに改善を重ねる開発スタイルです。")
+st.write("物事を整理しながら着実に進めるタイプです。")
 
-#取得済み□
-st.header("Certifications")
-st.write("ITパスポート")
-st.write("基本情報技術者")
-st.write("英検２級")
-
-st.header("Interests")
-st.write("Webアプリ開発を中心に取り組みつつ、今後は幅広い分野に挑戦し、自分の得意領域を深めていきたいと考えています。")
-
-st.header("Background")
-st.write("情報系学生として学習を進めながら、PythonとStreamlitを用いたWebアプリ開発に取り組んでいます。")
-st.write("制作したアプリは実際に友人へ使ってもらい、改善を重ねています。")
-
+#強み
 st.header("Strengths")
 st.write("継続的に改善を重ねる")
 st.write("実際に人に使ってもらいフィードバックを反映できる")
@@ -27,9 +17,15 @@ st.write("目的から逆算して行動できる")
 st.write("新しいことにも抵抗なく取り組める")
 st.write("集中力が高い")
 
-st.header("Parsonality")
-st.write("物事を整理しながら、着実に進めるタイプです。")
+#取得済み資格
+st.header("Certifications")
+st.write("ITパスポート")
+st.write("基本情報技術者")
+st.write("英検２級")
 
+#興味
+st.header("Interests")
+st.write("Webアプリ開発を中心に、UI/UX改善・業務効率化・幅広い技術分野に興味があります。")
 
 #制作物紹介とGithubリンクとStreamlitで作ったアプリのリンク
 st.header("Projects")
@@ -45,6 +41,21 @@ st.write("バスの時刻表検索アプリ")
 st.write("日にちと出発地点を選択すれば時刻表の一覧が表示されるアプリです。")
 st.link_button("Githubを見る","https://github.com/opticode-dev/bus-app")
 st.link_button("アプリを見る","https://bus-app-xnyjutwhlx3sjxdwbrpe8u.streamlit.app/")
+
+#開発・改善ログ
+st.header("Development Log")
+st.write("2026/03 履修優先度アプリ作成")
+st.write("2026/03 バスの時刻表検索アプリ作成")
+st.write("2026/04 履修優先度アプリ改善")
+st.write("2026/04 ポートフォリオ公開")
+st.write("2026/04 韓国語学習本格始動")
+
+st.write("2026/05 HTML/CSS学習開始予定")
+st.write("2026/05 お金管理アプリ公開予定")
+st.write("2026/05 TOEIC学習開始予定")
+
+st.write("2026/11 応用情報技術者試験受験予定")
+st.write("2026/12 MOS Excel/Word受験予定")
 
 #学習中
 st.header("Learning Now")
