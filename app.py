@@ -5,9 +5,10 @@ st.title("My portfolio")
 
 #プロフィール
 st.header("About Me")
-st.write("情報系学生。PythonとStreamlitを用いたWebアプリ開発に取り組んでいます。")
-st.write("実際に使ってもらった意見をもとに改善を重ねる開発スタイルです。")
-st.write("物事を整理しながら着実に進めるタイプです。")
+st.write("情報系学生")
+st.write("PythonとStreamlitを用いたWebアプリ開発に取り組んでいる")
+st.write("実際に使ってもらった意見をもとに改善を重ねる開発スタイル")
+st.write("物事を整理しながら着実に進めるタイプ")
 
 #強み
 st.header("Strengths")
@@ -25,20 +26,20 @@ st.write("英検２級")
 
 #興味
 st.header("Interests")
-st.write("Webアプリ開発を中心に、UI/UX改善・業務効率化・幅広い技術分野に興味があります。")
+st.write("Webアプリ開発を中心に、UI/UX改善・業務効率化・幅広い技術分野に興味がある")
 
 #制作物紹介とGithubリンクとStreamlitで作ったアプリのリンク
 st.header("Projects")
 
 st.subheader("Project１")
 st.write("履修優先度表示アプリ")
-st.write("大学の履修登録時に優先度を整理できるアプリです。")
+st.write("大学の履修登録時に優先度を分析し、グラフと表を表示")
 st.link_button("Githubを見る","https://github.com/opticode-dev/risyutekisei")
 st.link_button("アプリを見る","https://risyutekisei-iue8jkluryyopnwd4pnh2s.streamlit.app/")
 
 st.subheader("Project２")
 st.write("バスの時刻表検索アプリ")
-st.write("日にちと出発地点を選択すれば時刻表の一覧が表示されるアプリです。")
+st.write("日にちと出発地点を選択すれば時刻表の一覧を表示")
 st.link_button("Githubを見る","https://github.com/opticode-dev/bus-app")
 st.link_button("アプリを見る","https://bus-app-xnyjutwhlx3sjxdwbrpe8u.streamlit.app/")
 
