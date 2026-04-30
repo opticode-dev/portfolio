@@ -66,13 +66,6 @@ st.write("上記アプリのUI/UX改善")
 st.write("HTML/CSSの学習")
 st.write("応用情報技術者試験の学習")
 
-st.subheader("Languages")
-st.write("韓国語能力試験の学習")
-st.write("TOEIC600~")
-
-st.subheader("Business Skills")
-st.write("MOSのWord/Excelの学習")
-
 st.subheader("Others")
 st.write("随時ポートフォリオ更新中・・・")
 st.link_button("Githubを見る","https://github.com/opticode-dev/portfolio")
